@@ -1,5 +1,2 @@
-[preload  storage="./data/bgimage/rouka.jpg"  ]
-[preload  storage="./data/fgimage/default/kasetsu_toilet.png"  ]
-[preload  storage="./data/bgimage/room.jpg"  ]
-[preload  storage="./data/fgimage/default/calender_full.png"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
 [return] 

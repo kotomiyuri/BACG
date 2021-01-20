@@ -3,8 +3,10 @@
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="title.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
+[tb_ptext_hide  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=4 ]
+#
 俺には癒しがいる。[p]
 
 アキバのアイドル<もづくたん>だ。[r]
