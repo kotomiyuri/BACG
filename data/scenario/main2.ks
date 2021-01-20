@@ -1,7 +1,5 @@
-[_tb_system_call storage=system/_preview.ks ]
+[_tb_system_call storage=system/_main2.ks]
 
-[mask time=10]
-[mask_off time=10]
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="rouka.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]

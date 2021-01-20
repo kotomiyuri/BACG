@@ -2,4 +2,4 @@
 [preload  storage="./data/fgimage/default/kasetsu_toilet.png"  ]
 [preload  storage="./data/bgimage/room.jpg"  ]
 [preload  storage="./data/fgimage/default/calender_full.png"  ]
-[return] 
+[return]

@@ -1,19 +1,11 @@
 [_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
-[bg  storage="room.jpg"  time="1000"  ]
-[tb_show_message_window  ]
-[tb_start_text mode=1 ]
-#ガイド
-こんにちは[p]
-これは新しいプロジェクトです[p]
-ドラッグ＆ドロップして要素を追加してください[p]
-[_tb_end_text]
-
-[iscript]
-const result = confirm("hogeeeeeeeeeeeeeeeeeeeeeeeee");
-alert("result : " + result);
-[endscript]
-
-[tb_hide_message_window  ]
+[call  storage="main1.ks"  target=""  ]
+[call  storage="main1_subpart1.ks"  target=""  ]
+[call  storage="main2.ks"  target=""  ]
+[call  storage="main2_subpart1.ks"  target=""  ]
+[call  storage="main3.ks"  target=""  ]
+[call  storage="main3_subpart1.ks"  target=""  ]
+[call  storage="main4.ks"  target=""  ]
 [s  ]
